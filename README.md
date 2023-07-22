@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL, and C#**
 
-- 📄 Know about my experiences [so far I have learned to use java and python, and am currently learning SQL and C#](so far I have learned to use java and python, and am currently learning SQL and C#)
+- 📄 Know about my experiences so far I have learned to use java and python, and am currently learning SQL and C#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
